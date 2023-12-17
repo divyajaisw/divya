@@ -1,0 +1,63 @@
+
+#two{
+    text-align: justify;
+/* }
+#eg2{
+
+    text-decoration: underline;
+    color(srgb red green blue) */
+}
+#eg3{
+
+    text-decoration :blue overline;
+    color(srgb red green blue)
+}
+#eg4{
+
+    text-decoration: red line-through;
+}
+#eg5{
+    text-transform: uppercase;
+    line-height:normal;
+}
+#one{
+    color: white;
+    text-shadow: 0px 0px 10px rgb(255, 0, 179);
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    
+    
+}
+
+#eg2{
+    background-color: aqua;
+     font-style: italic;
+     font-weight: bolder;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}  
+#eg16{
+    background-color:yellow;
+    width: 500px;
+    height: 500px;
+} 
+#eg17{
+    background-color:blueviolet;
+    width: 50px;
+    height: 100px;
+}
+#eg18{
+    width:75%;
+    height:50%;
+    background-color: green;
+}
+#eg19{
+    width:7
+    height: 50;
+    background-color: brown;
+}
+#eg20{
+    width:75%;
+    height: 50%;
+    background-color:aquamarine;
+}
